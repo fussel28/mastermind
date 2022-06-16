@@ -18,6 +18,7 @@ icons:
   - repeat: [fontawesome](https://fontawesome.com/icons/rotate-right?s=solid)
   - clock: [fontawesome](https://fontawesome.com/icons/clock?s=solid)
   - menu + cross: [icons expo](https://icons.expo.fyi)
+
 android.notch.tsx: [stackoverflow](https://stackoverflow.com/questions/51289587/how-to-use-safeareaview-for-android-notch-devices)
 
 ## install 
