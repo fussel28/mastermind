@@ -37,7 +37,7 @@ $ yarn start -i
 
 to open project on ios simulator
 
-clickdummy: 
+### clickdummy: 
 [figma](https://www.figma.com/proto/swVrwkjNsG8blfEMPB6n6K/Typescript?page-id=0%3A1&node-id=2%3A3&viewport=578%2C658%2C0.25&scaling=scale-down&starting-point-node-id=2%3A3)
 
 -- have fun
