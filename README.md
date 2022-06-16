@@ -33,6 +33,12 @@ wait till node modules installed
 
 ```
 $ yarn start -i
+
+or 
+
+$ npm start 
+
+$ i
 ```
 
 to open project on ios simulator
